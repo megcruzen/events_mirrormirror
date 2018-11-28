@@ -1,0 +1,17 @@
+#container {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+
+#artOne { 
+    border: 1px solid blue; 
+}
+
+#artTwo { 
+    border: 1px solid red; 
+}
+
+.output {
+    padding: 10px;
+}
